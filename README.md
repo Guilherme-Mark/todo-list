@@ -1,3 +1,7 @@
+preciso que você crie um to do list simples, que possa criar tarefas e marcar as mesmas como concluídas
+Quero que você me envie o código de HTML, CSS e JS.
+Preciso hospedar esse projeto no github, me de instruções completas com codigo e configuração do repositório.
+
 Claro! Vou te ajudar com tudo: o código completo (HTML, CSS e JS) e as instruções para hospedar no GitHub. Vamos por partes:
 
 ---
